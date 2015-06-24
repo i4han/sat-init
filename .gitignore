@@ -1,2 +1,4 @@
 .env
 .meteor/local
+settings.json
+mobile-config.js
