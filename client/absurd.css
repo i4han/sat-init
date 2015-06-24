@@ -1,0 +1,11 @@
+#home-content0, #home-input0 {
+  position: fixed;
+}
+#home-content0 {
+  top: 100px;
+}
+#home-input0 {
+  bottom: 30px;
+  width: 100px;
+  height: 20px;
+}
